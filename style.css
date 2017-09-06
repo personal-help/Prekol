@@ -1,0 +1,49 @@
+		@font-face{
+    font-family:"10712";
+    src:url(Fonts/10712.ttf);
+}
+
+body{
+    background: url(https://itstep.az/wp-content/uploads/2017/08/3.jpg) ;
+}
+#one{
+    background: url(https://static.carthrottle.com/workspace/uploads/profile/11556bbc75766cc515bd405e0b8fcf64.png);
+    position: fixed;
+    width: 700px;
+    height: 800px;
+    margin-left: 930px;
+    margin-top: 30px;
+    border: 8px solid red;
+    font-size:70px;
+    font-family: "10712";
+    color: black;
+}
+
+#two{
+    color: black;
+}
+
+#three{
+    color: whitesmoke;
+}
+
+
+ul li:hover{background:green;
+text-decoration: none;}
+
+#five{
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    list-style: none;
+    border: 4px solid black;
+    color: black;
+}
+
+#new{
+    border: 3px solid black;
+    background: url(https://i.ytimg.com/vi/uJLFGxUQytU/maxresdefault.jpg);
+    color:black;
+    font-family: "10712";
+    font-size: 170px;
+}
