@@ -4,33 +4,31 @@
 }
 
 body{
-  
-    background: url(https://itstep.az/wp-content/uploads/2017/08/3.jpg) ;
+    font-family: "10712";
+    background: #09865C;
 }
 #one{
-    background: url(https://static.carthrottle.com/workspace/uploads/profile/11556bbc75766cc515bd405e0b8fcf64.png);
+    background: #1F843F;
+    color: #191970;
     position: fixed;
-    width: 700px;
-    height: 700px;
-    margin-left: 430px;
-    margin-top: 30px;
-    border: 8px solid red;
-    font-size:70px;
+    width: 40%;
+    text-align: center;
+    height: auto ;
+    margin-left: 30%;
+    margin-top: 1%;
+    border: 8px solid blue;
+    font-size: 5em;
     font-family: "10712";
-    color: black;
 }
 
-#two{
-    color: black;
+a{
+    text-decoration: none;
+    color: aqua;
 }
 
 #three{
     color: whitesmoke;
 }
-
-
-ul li:hover{background:green;
-text-decoration: none;}
 
 #five{
     margin-right: 20px;
@@ -46,5 +44,13 @@ text-decoration: none;}
     background: url(https://i.ytimg.com/vi/uJLFGxUQytU/maxresdefault.jpg);
     color:black;
     font-family: "10712";
-    font-size: 170px;
+    font-size: 13em;
 }
+
+.href{
+    color: black;
+    font-size: 5em;
+    font-family: monospace;
+    margin-left: 3%;
+}
+
