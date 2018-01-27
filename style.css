@@ -17,7 +17,7 @@ body{
     margin-left: 30%;
     margin-top: 1%;
     border: 8px solid blue;
-    font-size: 5em;
+    font-size: 4em;
     font-family: "10712";
 }
 
@@ -44,7 +44,7 @@ a{
     background: url(https://i.ytimg.com/vi/uJLFGxUQytU/maxresdefault.jpg);
     color:black;
     font-family: "10712";
-    font-size: 13em;
+    font-size: 12em;
 }
 
 .href{
